@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pwa-todo-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pwa-todo-app/static/js/main.15819cd4.chunk.js",
-    "main.js.map": "/pwa-todo-app/static/js/main.15819cd4.chunk.js.map",
-    "runtime-main.js": "/pwa-todo-app/static/js/runtime-main.890bc89d.js",
-    "runtime-main.js.map": "/pwa-todo-app/static/js/runtime-main.890bc89d.js.map",
-    "static/js/2.0f745a10.chunk.js": "/pwa-todo-app/static/js/2.0f745a10.chunk.js",
-    "static/js/2.0f745a10.chunk.js.map": "/pwa-todo-app/static/js/2.0f745a10.chunk.js.map",
-    "static/js/3.547f175a.chunk.js": "/pwa-todo-app/static/js/3.547f175a.chunk.js",
-    "static/js/3.547f175a.chunk.js.map": "/pwa-todo-app/static/js/3.547f175a.chunk.js.map",
+    "main.css": "/pwa-todo-app/static/css/main.8b50ba2a.chunk.css",
+    "main.js": "/pwa-todo-app/static/js/main.9ab791f2.chunk.js",
+    "main.js.map": "/pwa-todo-app/static/js/main.9ab791f2.chunk.js.map",
+    "runtime-main.js": "/pwa-todo-app/static/js/runtime-main.974ac1df.js",
+    "runtime-main.js.map": "/pwa-todo-app/static/js/runtime-main.974ac1df.js.map",
+    "static/js/2.7d594e13.chunk.js": "/pwa-todo-app/static/js/2.7d594e13.chunk.js",
+    "static/js/2.7d594e13.chunk.js.map": "/pwa-todo-app/static/js/2.7d594e13.chunk.js.map",
+    "static/js/3.3c75bedd.chunk.js": "/pwa-todo-app/static/js/3.3c75bedd.chunk.js",
+    "static/js/3.3c75bedd.chunk.js.map": "/pwa-todo-app/static/js/3.3c75bedd.chunk.js.map",
     "index.html": "/pwa-todo-app/index.html",
     "service-worker.js": "/pwa-todo-app/service-worker.js",
     "service-worker.js.map": "/pwa-todo-app/service-worker.js.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/pwa-todo-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0f745a10.chunk.js.LICENSE.txt": "/pwa-todo-app/static/js/2.0f745a10.chunk.js.LICENSE.txt",
+    "static/css/main.8b50ba2a.chunk.css.map": "/pwa-todo-app/static/css/main.8b50ba2a.chunk.css.map",
+    "static/js/2.7d594e13.chunk.js.LICENSE.txt": "/pwa-todo-app/static/js/2.7d594e13.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/pwa-todo-app/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.890bc89d.js",
-    "static/js/2.0f745a10.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.15819cd4.chunk.js"
+    "static/js/runtime-main.974ac1df.js",
+    "static/js/2.7d594e13.chunk.js",
+    "static/css/main.8b50ba2a.chunk.css",
+    "static/js/main.9ab791f2.chunk.js"
   ]
 }
