@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Home from "./Home";
+import Sub from "./components/Sub";
+import Loading from "./components/Loading";
+import Navi from "./components/Navi";
+import Circlem from "./components/Circle";
 
-function App() {
+export const BASE_URL = process.env.NODE_ENV === 'production' ? '/pwa-todo-app/' : '/'
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="min-h-screen flex flex-col">
+      <Router>
+        <div className="bg-gray-300 bg-opacity-90 flex items-center flex-auto justify-center text-white">
+          <Switch>
+            <Route path={`${BASE_URL}content`} exact component={Home} />
+            <Route path={`${BASE_URL}picture`} exact component={Sub} />
+            <Route path={`${BASE_URL}loading`} exact component={Loading} />
+            <Route path={BASE_URL} component={Circlem} />
+          </Switch>
+        </div>
+        <div className="sticky bottom-0">
+          <Navi />
+        </div>
+      </Router>
     </div>
-  );
+  )
 }
-
-export default App;

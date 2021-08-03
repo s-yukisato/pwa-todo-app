@@ -8,7 +8,8 @@ module.exports = {
       colors: {
         sky: colors.sky,
         cyan: colors.cyan,
-        violet : colors.violet
+        violet : colors.violet,
+        teal: colors.teal
       },
     },
   },
