@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pwa-todo-app/static/css/main.9695de7f.chunk.css",
-    "main.js": "/pwa-todo-app/static/js/main.cb375d1e.chunk.js",
-    "main.js.map": "/pwa-todo-app/static/js/main.cb375d1e.chunk.js.map",
+    "main.css": "/pwa-todo-app/static/css/main.eed49eb5.chunk.css",
+    "main.js": "/pwa-todo-app/static/js/main.22244720.chunk.js",
+    "main.js.map": "/pwa-todo-app/static/js/main.22244720.chunk.js.map",
     "runtime-main.js": "/pwa-todo-app/static/js/runtime-main.6ac8f706.js",
     "runtime-main.js.map": "/pwa-todo-app/static/js/runtime-main.6ac8f706.js.map",
     "static/js/2.49669bf4.chunk.js": "/pwa-todo-app/static/js/2.49669bf4.chunk.js",
@@ -10,14 +10,14 @@
     "index.html": "/pwa-todo-app/index.html",
     "service-worker.js": "/pwa-todo-app/service-worker.js",
     "service-worker.js.map": "/pwa-todo-app/service-worker.js.map",
-    "static/css/main.9695de7f.chunk.css.map": "/pwa-todo-app/static/css/main.9695de7f.chunk.css.map",
+    "static/css/main.eed49eb5.chunk.css.map": "/pwa-todo-app/static/css/main.eed49eb5.chunk.css.map",
     "static/js/2.49669bf4.chunk.js.LICENSE.txt": "/pwa-todo-app/static/js/2.49669bf4.chunk.js.LICENSE.txt",
     "static/media/n1.f839b57c.jpg": "/pwa-todo-app/static/media/n1.f839b57c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6ac8f706.js",
     "static/js/2.49669bf4.chunk.js",
-    "static/css/main.9695de7f.chunk.css",
-    "static/js/main.cb375d1e.chunk.js"
+    "static/css/main.eed49eb5.chunk.css",
+    "static/js/main.22244720.chunk.js"
   ]
 }
